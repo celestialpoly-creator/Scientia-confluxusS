@@ -1,0 +1,6 @@
+{
+  "name": "Scientia Confluxus",
+  "description": "An advanced knowledge synthesis engine compiling comprehensive dossiers, chronological milestones, and lab status logs on any searched topic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
